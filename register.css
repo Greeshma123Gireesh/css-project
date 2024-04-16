@@ -1,0 +1,19 @@
+body{
+   
+    background-image: url(images/about.jpg);
+    background-repeat: no-repeat;
+    flood-opacity: 20%;
+    background-size:contain;
+    text-align: center;
+    background-position: center top 70px;
+   
+    }
+form{
+    margin-top: 30px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(36, 36, 61);
+}
+h3{
+    margin-top: 150px;
+}
